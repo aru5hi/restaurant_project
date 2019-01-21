@@ -1,0 +1,76 @@
+body{
+background-image:url("new1.jpg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-position:center;
+}
+b{
+top-margin:400px;
+}
+
+.h1{
+font-weight:bold;
+font-family:"Viner Hand ITC";
+font-size:30px;}
+
+u{ font-family:"Verdana"; 
+font-size:40px;
+text-align:center;
+color: #ff9900;}
+
+ul{
+font-family:"Footlight MT";
+margin:0;
+padding: 5px;
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+position:fixed;
+top:0;
+width:100%;
+	} 
+ol{
+font-family:"Footlight MT";
+margin:0;
+padding: 5px;
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+position:fixed;
+bottom:0;
+width:100%;
+	}
+ol li {  
+	display: inline; 
+padding:15px;
+	} 
+ul li {  
+	display: inline; 
+padding:20px;
+	} 
+ol li a{
+font-size:20px;}
+
+
+ul li a{
+font-size:20px;}
+
+a:hover{
+color:white;
+}
+
+a:link{
+text-decoration:none;}
+
+a:visited{
+text-decoration:none;}
+
+.transbox{
+font-family:"High Tower Text";
+font-size:40px;
+color:#ffff99;
+background:rgba(0,0,0, 0.7);
+width:60%;
+margin:auto;
+top-margin:50%;}
+

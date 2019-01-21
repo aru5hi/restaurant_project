@@ -1,0 +1,92 @@
+body{
+background-image:url("new1.jpg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-position:center;
+}
+.transbox1{
+font-family:"Footlight MT";
+font-size:25px;
+color:#ffffff;
+background:blue;
+width:70%;
+margin:auto;
+top-margin:50%;
+}
+b{
+top-margin:405px;}
+.h1{
+font-weight:bold;
+font-family:"Viner Hand ITC";
+font-size:30px;}
+
+u{font-family:"Kunstler Script"; 
+font-size:40px;
+text-align:center;
+color: #ff9900;}
+
+ul{
+font-family:"Footlight MT";
+margin:0;
+padding: 5px;
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+position:fixed;
+top:0;
+width:100%;
+	} 
+
+ul li {  
+	display: inline; 
+
+padding:20px;
+	} 
+button {
+    background-color:black;
+    border: 3px;
+    border-color=white;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+font-family:"Footlight MT";}
+select{
+background-color:black;
+    border: 8px;
+    border-color=white;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+font-family:"Footlight MT";}
+
+ul li a{
+font-size:20px;}
+
+a:hover{
+color:white;
+}
+
+a:link{
+text-decoration:none;}
+
+a:visited{
+text-decoration:none;}
+.active {
+    background-color:grey;
+color:white;
+}
+.transbox{
+font-family:"High Tower Text";
+font-size:30px;
+color:#ffffff;
+background:rgba(0,0,0, 0.7);
+width:60%;
+margin:auto;
+top-margin:50%;}
+

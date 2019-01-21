@@ -1,0 +1,87 @@
+body{
+background-image:url("new1.jpg");
+background-repeat: no repeat;
+background-attachment:fixed;
+background-position:center;
+}
+b{
+top-margin:400px;
+}
+
+.h1{
+font-weight:bold;
+font-family:"Viner Hand ITC";
+font-size:30px;}
+
+u{ font-family:"Verdana"; 
+font-size:40px;
+text-align:center;
+color: #ff9900;}
+
+ul{
+margin:0;
+top:0;
+font-family:"Footlight MT";
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+width:100%;
+position:fixed;
+	} 
+ol{
+font-family:"Footlight MT";
+margin:0;
+padding: 5px;
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+position:fixed;
+bottom:0;
+width:100%;
+	}
+ol li {  
+	display: inline; 
+padding:15px;
+	} 
+ul li{
+	display:inline;
+}
+ol li a{
+font-size:20px;}
+
+
+ul li a{
+font-size:20px;}
+
+a:hover{
+color:white;
+}
+
+a:link{
+text-decoration:none;}
+
+a:visited{
+text-decoration:none;}
+
+.active {
+    background-color:grey;
+color:white;
+}
+
+.transbox{
+font-family:"High Tower Text";
+font-size:20px;
+color:#ffff99;
+background:rgba(0,0,0, 0.7);
+width:60%;
+margin:auto;
+margin-bottom:10px;
+top-margin:50%;}
+
+.order{
+font-family:"High Tower Text";
+font-size:30px;
+text-color:white;}
+
+a{
+font-family:"Footlight MT";}

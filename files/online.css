@@ -1,0 +1,118 @@
+body{
+background-image:url("new1.jpg");
+background-repeat:no repeat;
+background-attachment:fixed;
+background-position:center;
+}
+
+
+.h1{
+font-weight:bold;
+font-family:"Viner Hand ITC";
+font-size:30px;}
+
+u{font-family:"Kunstler Script"; 
+font-size:40px;
+text-align:center;
+color: #ff9900;}
+
+ul{
+font-family:"Footlight MT";
+margin:0;
+padding: 5px;
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+position:fixed;
+top:0;
+width:100%;
+	} 
+
+ul li {  
+	display: inline; 
+
+padding:20px;
+	} 
+
+ul li a{
+font-size:20px;}
+
+a:hover{
+color:white;
+}
+
+a:link{
+text-decoration:none;}
+
+a:visited{
+text-decoration:none;}
+.active {
+    background-color:grey;
+color:white;
+}
+
+
+
+u
+{font-family:"Forte";}
+button {
+
+
+    border: none;
+border-radius: 15px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+font-weight:bold;
+    margin: 4px 2px;
+    cursor: pointer;
+      color: white;
+    border: 2px solid #e7e7e7;
+background:rgba(0,0,0, 0)
+}
+
+ol{
+font-family:"Footlight MT";
+margin:0;
+padding: 5px;
+list-style-type: none; 
+text-align: center; 
+background:rgba(0,0,0, 0.7);
+position:fixed;
+bottom:0;
+width:100%;
+	}
+ol li {  
+	display: inline; 
+padding:20px;}
+ol li a{
+font-size:20px;}
+
+
+.transbox{
+font-family:"Footlight MT";
+font-size:25px;
+color:#ffffff;
+background:rgba(0,0,0, 0.7);
+width:60%;
+margin-left:50px;
+top-margin:50%;
+}
+.transbox1{
+font-family:"Footlight MT";
+font-size:25px;
+color:#ffffff;
+background:rgba(250,102,0,0.7);
+width:28%;
+margin-left:900px;
+position:fixed;
+border-radius:5px;
+padding:5px;
+border:solid 5px white;
+}
+.height{
+    height:100px;
+}
