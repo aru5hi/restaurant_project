@@ -9,3 +9,4 @@ Follow the steps to create the migrations:
       php artisan migrate
       
  6 Tables are created!
+ P.S.- Please name the database "restaurant"
